@@ -19,7 +19,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties: _Smootness
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -76,15 +76,15 @@ Material:
     - _SmallWavesSize1: 3
     - _SmallWavesSpeed: 0.5
     - _Smoothness: 0.702
-    - _Smootness: 0.678
+    - _Smootness: 0.766
     - _SpecularHighlights: 1
     - _Strenght: 0.5
     - _TRANSPARENCY: 0.73
     - _TessMax: 10
     - _TessMin: 1
     - _TessValue: 5
-    - _WaveAmplitude: 1
-    - _WaveSpeed: 0.605
+    - _WaveAmplitude: 0.163
+    - _WaveSpeed: 0.248
     - _WaveTile: 0.719
     - _Wavespeed: 0.5
     - _Wavetile: 0.37
